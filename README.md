@@ -13,8 +13,7 @@ Hi there! 👋 I'm Abdullah, welcome to my GitHub. 🌱
 ### About Me 🚀 <br />
 💻 I’m a ***Software Engineer*** and also an Undergraduate student of Federal University of Akure (FUTA), Nigeria. I'm looking to solve real-world problems🌏 and passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. 
 
- I pay strong attention to detail and also posess critical problem-solving skills, and the ability to work in fast-paced team environments. I have experience working on scalable architectures, micro services and cloud infrastructures applications. I bring enthusiasm, heart with a love of shipping code and fixing bugs to my work.
- 
+Wanna know more. Kindly check my porfolio 👉
 <div align="center">
   <a href="https://github.com/abdullah137">
 <img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
