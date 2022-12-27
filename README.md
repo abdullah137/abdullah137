@@ -14,11 +14,6 @@ Hi there! 👋 I'm Abdullah, welcome to my GitHub. 🌱
 💻 I’m a ***Software Engineer*** and also an Undergraduate student of Federal University of Akure (FUTA), Nigeria. I'm looking to solve real-world problems🌏 and passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. 
 
 Wanna know more. Kindly check my porfolio 👉 <a href="https://abdul137.herokuapp.com/"> Here </a>
-<div align="center">
-  <a href="https://github.com/abdullah137">
-<img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-  </a>
-</div>
 
 ## ⚡ Technologies I love and use
   
