@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=abdullah137)
+
 Hi there! 👋 I'm Abdullah, welcome to my GitHub. 🌱
 
 <hr />
